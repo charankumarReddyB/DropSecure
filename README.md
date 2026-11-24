@@ -152,11 +152,11 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 
 ## 👥 Authors & Academic Context
 
-Developed as the **Mobile Computing (ITA0304)** Capstone Project, Team 6:
+Developed as the **Mobile Computing (ITA0304)** Capstone Project:
 - **Developer**: B. Charan Kumar Reddy ([@charankumarReddyB](https://github.com/charankumarReddyB))
 - **Email**: charankumarreddybantrothula@gmail.com
 - **Institution**: SIMATS Engineering, Saveetha Institute of Medical and Technical Sciences
-- **Supervisor**: Dr. Almas Begum
+
 
 ---
 
